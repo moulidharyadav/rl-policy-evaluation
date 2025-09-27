@@ -245,7 +245,7 @@ else:
 <img width="676" height="485" alt="image" src="https://github.com/user-attachments/assets/95197ebe-45eb-4034-8406-be9b82bf7f2d" />
 
 # Policy 2:
-<img width="834" height="196" alt="image" src="https://github.com/user-attachments/assets/a71de1ed-48b5-4b66-935c-5dcb5eb8f21b" />
+<img width="1124" height="317" alt="image" src="https://github.com/user-attachments/assets/d20c8bbb-6bc5-4102-84b5-6fc5c20d67c2" />
 
 # Policy Evaluation of Policies
 <img width="502" height="426" alt="image" src="https://github.com/user-attachments/assets/45541127-d9ec-44f0-a934-99d250c38294" />
